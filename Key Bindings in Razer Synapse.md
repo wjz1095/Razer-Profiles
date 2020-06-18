@@ -41,7 +41,7 @@ Orbweaver Chroma Specs:
 
 **Note: Razer Synapse seems to not like launching shortcuts, so it is best to find the `.exe` of the application you want to launch and set Synapse to open that instead**
 
-<h4>Launching the file browser to a specific folder:</h4>
+<h4>1. Launching the file browser to a specific folder:</h4>
 
 1. Create a batch file named however you want
 2. Inside the batch file add these two lines, replacing the location of the folder with the one you wish to open
@@ -56,7 +56,7 @@ Orbweaver Chroma Specs:
 
 <br>
 <br>
-<h4>Opening a Windows App</h4>
+<h4>2. Opening a Windows App</h4>
 
 *This is for opening a Windows App, not a program. An App is the application you would download from the Windows Store.*
 
